@@ -4,9 +4,13 @@ Save the Bees is a Project dedicated to supporting local honey farmers in Tennes
 ## Helpful Sites: http://localhoneysource.com/local-honey-list/tennessee/
 
 ## Technologies Used:
-React, React Native, ReactVR, Docker, GraphQL, NodeJS, ExpressJS, PostgreSQL
+React, React Native, ReactVR, Docker, GraphQL, NodeJS, ExpressJS, PostgreSQL, Bootstrap 4
 
 ## Installations:
+### Bootstrap: http://getbootstrap.com/docs/4.0/getting-started/download/
+```
+npm install bootstrap@4.0.0-beta.2
+```
 ### React: https://reactjs.org/docs/installation.html
 Create React App is the best way to start building a new React single page application. It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. You’ll need to have Node >= 6 on your machine. 
 
