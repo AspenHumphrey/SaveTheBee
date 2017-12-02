@@ -85,7 +85,7 @@ Intalling on Fedora: https://www.docker.com/docker-fedora
 
 Docker for Fedora is the best way to install the Docker platform on Fedora based Linux systems. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications. Docker CE for Fedora is available to be installed on any bare metal or cloud server of choice.
 
-
+sudo dnf install https://download.docker.com/linux/fedora/26/x86_64/stable/Packages/docker-ce-17.09.0.ce-1.fc26.x86_64.rpm
 
 Installing on Ubuntu: https://www.docker.com/docker-ubuntu 
 
