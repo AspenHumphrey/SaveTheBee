@@ -62,4 +62,13 @@ Open your browser to http://localhost:8081/vr/index.html.
 ### BodyParser:
 1. Run npm install body-parser 
 
+### pg-hstore:
+```
+npm install pg-hstore
+```
+
+### PG - Node/Postgres
+```
+npm install pg
+```
 
