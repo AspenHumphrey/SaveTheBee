@@ -1,6 +1,8 @@
 # SaveTheBee
 Save the Bees is a Project dedicated to supporting local honey farmers in Tennessee. Information includes: farm location, where to purchase, types of honey (what plants are pollinated in the area by the bees exp orange blossoms) with facts and information on how you can help "save the bees".
 
+## Helpful Sites: http://localhoneysource.com/local-honey-list/tennessee/
+
 ## Technologies Used:
 React, React Native, ReactVR, Docker, GraphQL, NodeJS, ExpressJS, PostgreSQL
 
@@ -90,4 +92,3 @@ Installing on Ubuntu: https://www.docker.com/docker-ubuntu
 Docker for Ubuntu is the best way to install the Docker platform on Ubuntu Linux environments. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications.
 
 Docker for Ubuntu is available for free Community Edition (CE) and as an Enterprise Edition (EE) subscription with software, support and certification that can be installed on bare metal or cloud infrastructure.
-
