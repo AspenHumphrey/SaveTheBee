@@ -63,12 +63,31 @@ Open your browser to http://localhost:8081/vr/index.html.
 1. Run npm install body-parser 
 
 ### pg-hstore:
-```
-npm install pg-hstore
-```
+1. npm install pg-hstore
 
 ### PG - Node/Postgres
-```
-npm install pg
-```
+1. npm install pg
+
+### GraphQL: http://graphql.org/code/#javascript
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+
+The reference implementation of the GraphQL specification, designed for running GraphQL in a Node.js environment.
+1. npm install graphql
+
+### Express GraphQL: http://graphql.org/code/#javascript
+The reference implementation of a GraphQL API server over an Express webserver. You can use this to run GraphQL in conjunction with a regular Express webserver, or as a standalone GraphQL server.
+1. npm install express express-graphql graphql
+
+### Docker:
+Intalling on Fedora: https://www.docker.com/docker-fedora
+
+Docker for Fedora is the best way to install the Docker platform on Fedora based Linux systems. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications. Docker CE for Fedora is available to be installed on any bare metal or cloud server of choice.
+
+
+
+Installing on Ubuntu: https://www.docker.com/docker-ubuntu 
+
+Docker for Ubuntu is the best way to install the Docker platform on Ubuntu Linux environments. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications.
+
+Docker for Ubuntu is available for free Community Edition (CE) and as an Enterprise Edition (EE) subscription with software, support and certification that can be installed on bare metal or cloud infrastructure.
 
