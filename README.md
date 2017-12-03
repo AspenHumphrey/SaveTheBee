@@ -96,3 +96,6 @@ Installing on Ubuntu: https://www.docker.com/docker-ubuntu
 Docker for Ubuntu is the best way to install the Docker platform on Ubuntu Linux environments. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications.
 
 Docker for Ubuntu is available for free Community Edition (CE) and as an Enterprise Edition (EE) subscription with software, support and certification that can be installed on bare metal or cloud infrastructure.
+
+Learn more here.
+https://docs.docker.com/get-started/
